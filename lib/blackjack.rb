@@ -4,8 +4,7 @@ end
 
 def deal_card
   card = deal_card
-  do
-    card = rand 0..11
+   card = rand 0..11
   end
 end
 
