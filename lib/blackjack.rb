@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card
-  num = [1,23,4,5,6,7,8,9,10,11]
+  card = deal_card
 end
 
 def display_card_total
